@@ -1,7 +1,7 @@
 # CS3
 
 Progress:
-    { }Falling Apart
+    {X}Falling Apart
     { }Babelfish
     { }CD
     { }PutoVanje
