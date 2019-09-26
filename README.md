@@ -2,8 +2,8 @@
 
 Progress:
     {X}Falling Apart
-    { }Babelfish
-    { }CD
+    {X}Babelfish
+    {X}CD
     { }PutoVanje
     { }ICPC Tutorial
     { }BST
