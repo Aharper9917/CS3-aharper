@@ -5,7 +5,7 @@ Progress:                   | Self Grade
     {X}Babelfish            | 20%
     {X}CD                   | 100%
     {X}PutoVanje            | 100%
-    { }ICPC Tutorial        |
+    {X}ICPC Tutorial        | 99%
     { }BST                  |
     { }Graphs               |
     { }Mini Spanning Tree   |
