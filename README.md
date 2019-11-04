@@ -6,6 +6,6 @@ Progress:                   | Self Grade
     {X}CD                   | 100%
     {X}PutoVanje            | 100%
     {X}ICPC Tutorial        | 99%
-    { }BST                  |
+    {X}BST                  | 85%
     { }Graphs               |
     { }Mini Spanning Tree   |
