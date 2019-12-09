@@ -1,0 +1,39 @@
+100k.txt
+    Average time for Binary Search Tree:    0 ms
+    Average time for Binary Search:         0 ms
+    Average time for Sequential Search:     0.1 ms
+    Average time for Quick Sort:            13 ms
+    Average time for STL Sort:              16.3 ms
+    Average time for STL Stable Sort:       16.8 ms
+    Average time for Shell Sort:            22.4 ms
+    Average time for Merge Sort:            26.3 ms
+    Average time for Heap Sort:             32.1 ms
+    Average time for Insertion Sort:        5273.67 ms
+    Average time for Selection Sort:        10248.3 ms
+    Average time for Bubble Sort:           28242.7 ms
+500k.txt
+    Average time for Binary Search Tree:    0 ms
+    Average time for Binary Search:         0 ms
+    Average time for Sequential Search:     0.1 ms
+    Average time for Quick Sort:            71.3 ms
+    Average time for STL Sort:              84.6 ms
+    Average time for STL Stable Sort:       91 ms
+    Average time for Shell Sort:            126.6 ms
+    Average time for Merge Sort:            135.1 ms
+    Average time for Heap Sort:             189.3 ms
+    Average time for Insertion Sort:        144323.9 ms
+    Average time for Selection Sort:        303643.1 ms
+    Average time for Bubble Sort:           782307.2 ms
+1mil.txt
+    Average time for Binary Search Tree:    0 ms
+    Average time for Binary Search:         0.1 ms
+    Average time for Sequential Search:     0.2 ms
+    Average time for Quick Sort:            156.2 ms
+    Average time for STL Sort:              174.4 ms
+    Average time for STL Stable Sort:       188.2 ms
+    Average time for Shell Sort:            286 ms
+    Average time for Merge Sort:            276.8 ms
+    Average time for Heap Sort:             415.3 ms
+    Average time for Insertion Sort:        615562 ms
+    Average time for Selection Sort:        1.12363e+006 ms
+    Average time for Bubble Sort:           3.16351e+006 ms

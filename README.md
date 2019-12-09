@@ -7,5 +7,6 @@ Progress:                   | Self Grade
     {X}PutoVanje            | 100%
     {X}ICPC Tutorial        | 99%
     {X}BST                  | 85%
-    { }Graphs               |
-    { }Mini Spanning Tree   |
+    {X}Graphs               | 99%
+    { }Mini Spanning Tree   | 0%
+    {X}Final                | 90%
